@@ -508,3 +508,4 @@ fn verify_schema_errors_if_schema_file_would_change() {
     );
     assert!(p.has_file("src/my_schema.rs"));
 }
+
